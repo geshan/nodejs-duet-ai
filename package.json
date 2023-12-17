@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-duet-ai",
+  "version": "1.0.0",
+  "description": "A demo repo for a blog post about Node.js and Duet AI (by Google)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-duet-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-duet-ai/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-duet-ai#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
